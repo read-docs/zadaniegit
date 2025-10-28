@@ -1,4 +1,4 @@
 [ ] parowki
-[ ] chelb
+[x] chelb
 [ ] ketchup
 
